@@ -8,7 +8,7 @@ using namespace std;
 
 void init_code() {
 #ifndef ONLINE_JUDGE
-    // freopen("inputf.txt", "r", stdin);
+    freopen("inputf.txt", "r", stdin);
     freopen("inputf.txt", "w", stdout);
 #endif // ONLINE_JUDGE
 }
